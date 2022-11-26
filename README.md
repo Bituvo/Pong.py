@@ -9,3 +9,5 @@ Each player's score is shown above their respective paddles.
 The ball slowly gains velocity through the game, and so do the paddles.
 
 To prevent the ball from hitting the left or right edge and giving the respective player a point, deflect it with your paddle.
+
+![image](https://user-images.githubusercontent.com/90872694/204104699-4cd9f238-b5c3-4027-9cb1-adb6e78439f5.png)
