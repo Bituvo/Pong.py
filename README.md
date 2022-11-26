@@ -1,5 +1,5 @@
 # Pong.py
-A black and white old-style Pong game written in tkinter, intended for 2 players.
+A black and white old-style Pong game I wrote in 6th grade, intended for 2 players.
 
 Player 1 controls the left paddle with the W and S keys.
 Player 2 controls the right paddle with the up and down arrow keys.
